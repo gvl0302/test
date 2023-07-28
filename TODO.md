@@ -1,0 +1,4 @@
+- Menu "Etudes et sources" pété
+- include HTML l'un dans l'autre, afin d'extraire le header et le footer (difficile à faire proprement)
+- problème de police à regarder
+- la homepage a l'affichage mobile pétée
