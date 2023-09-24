@@ -33,3 +33,4 @@ Informations ce que j'ai fait :
 - Adjustement de la page d'accueil = ajout de légende sous nos sources d'apport
 - la page d'accueil est sémantiquement acceptable <header><main><footer>
 - retrait du champ de recherche
+- Ajout d'un dropdown Faux Atout
