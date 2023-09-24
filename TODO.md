@@ -33,3 +33,5 @@ Informations ce que j'ai fait :
 - la page d'accueil est sémantiquement acceptable <header><main><footer>
 - retrait du champ de recherche
 - Ajout d'un dropdown Faux Atout
+- Toutes les pages ont header, footer, main...
+- Fix erreur de style sur la page index Q/R
