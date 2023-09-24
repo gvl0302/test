@@ -14,6 +14,8 @@ Moins importantes :
 - Développement des territoires : manque d'images ?
 - Analyse bibliographique des effets des LGV
 - Valider les nommages des sous logos.
+- La page "les-tgv-transportent-moins-de-voyageurs-que-les-ter.html" étaient visibles ou pas ?
+-  Questions : Nos Réponses : faut-il adapter ?
 
 Informations ce que j'ai fait :
 
@@ -34,4 +36,5 @@ Informations ce que j'ai fait :
 - Retrait de "etudes/etudes (copie page initiale)"
 - Retrait de "etudes/sources.odt"
 - Nettoyage des images inutiles et du projet global
+- Ajout du lien vers les TGV transportent moins de voyageurs que les TER dans chaque page "Questions : Nos Réponses". 
 

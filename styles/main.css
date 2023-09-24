@@ -1,3 +1,4 @@
+/* Header Dropdown Faux Atout */
 .dropdown {
     position: relative;
     display: inline-block;
@@ -15,6 +16,7 @@
 
 .dropdown-content a {
     color: white;
+    font-weight: bold;
     text-decoration: none;
     display: block;
     text-align: left;
