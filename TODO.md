@@ -1,11 +1,20 @@
+Anciennes TODO :
+
 - Menu "Etudes et sources" pété
 - problème de police à regarder ?
 - sur les Q/R : les autres questions à gérer
+
+Nouvelle TODO :
+
+- header et css à bien mettre en place sur toutes les pages, faire attention notamment à la taille de police et à la typographie + justifier tous les corps de texte (pas les titres)
+- idem pour le footer (prendre celui de la page accueil où j'ai retiré les adresses de la région etc.)
+- sur la page questions/nos réponses les tags / filtres ne fonctionnent pas (pour faire apparaître les questions par thèmes
 
 Questions Importantes : 
 
 - en bas de page, on n'ajoute pas @ 2023  ⬆️ Mentions légales ?
 - c'est quoi les titres de Q/R OK_ ? On fait l'inverse, on préfixe les non publiées ?
+- lien cassé sur la page mobilité pour tous href="../questions-reponses/OK_une-solution-pour-lacces-aux-metropoles-bordelaise-et-toulousaine.html">
 
 Moins importantes :
 
