@@ -27,3 +27,18 @@
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+/* Mobile Header */
+@media screen and (max-width: 700px) {
+    .uk-navbar {
+        flex-direction: column;
+    }
+
+    .menu-item {
+        border: 1px solid black;
+        border-radius: 20%;
+        margin: 4px;
+        text-align: center;
+
+    }
+}

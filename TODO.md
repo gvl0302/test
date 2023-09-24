@@ -1,9 +1,8 @@
 - Menu "Etudes et sources" pété
 - problème de police à regarder ?
 - sur les Q/R : les autres questions à gérer
-- le MOBILE
 
-Questions Importantes: 
+Questions Importantes : 
 
 - en bas de page, on n'ajoute pas @ 2023  ⬆️ Mentions légales ?
 - c'est quoi les titres de Q/R OK_ ? On fait l'inverse, on préfixe les non publiées ?
@@ -37,4 +36,4 @@ Informations ce que j'ai fait :
 - Retrait de "etudes/sources.odt"
 - Nettoyage des images inutiles et du projet global
 - Ajout du lien vers les TGV transportent moins de voyageurs que les TER dans chaque page "Questions : Nos Réponses". 
-
+- Rendre le header mobile plus utilisable
