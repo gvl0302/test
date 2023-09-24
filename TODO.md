@@ -31,6 +31,7 @@ Informations ce que j'ai fait :
 - Toutes les pages ont header, footer, main...
 - Fix erreur de style sur la page index Q/R
 - Eliminer des fichiers inutiles
-- Retrait de "etudes/etudes (copie page initiale)" ?
-- Retrait de "etudes/sources.odt" ?
+- Retrait de "etudes/etudes (copie page initiale)"
+- Retrait de "etudes/sources.odt"
+- Nettoyage des images inutiles et du projet global
 
