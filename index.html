@@ -33,131 +33,58 @@
   <link href="styles/theme.1.css" rel="stylesheet">
 </head>
 
-<body class="home page-template-default page page-id-1 ">
-<div class="tm-page">
-  <div class="tm-header-mobile uk-hidden@m">
-    <div class="uk-navbar-container">
-      <nav uk-navbar="container: .tm-header-mobile" class="uk-navbar">
-        <div class="uk-navbar-left"><a href="" class="uk-navbar-item uk-padding-remove-left uk-logo">
-          <img alt="LGV 2030" src="questions-reponses/index-assets/logo_baseline5.png" width="300" height="69"></a>
-        </div>
-        <div class="uk-navbar-right"><a class="uk-navbar-toggle" href="#tm-mobile" uk-toggle="" aria-expanded="false">
-          <span class="uk-margin-small-right">Menu</span>
-          <div uk-navbar-toggle-icon="" class="uk-icon uk-navbar-toggle-icon">
+<body>
+  <header class="uk-container">
+    <nav class="uk-navbar">
+      <div class="uk-navbar-left">
+        <a href="index.html" class="uk-navbar-item uk-logo">
+          <img alt="Logo de LGV 2030 STOP" src="public/logo.png" width="300" height="90"/>
+        </a>
+      </div>
+      <div class="uk-navbar-right">
+        <ul class="uk-navbar-nav">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="index.html">Le projet</a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children uk-parent">
+            <a href="atouts/atouts.html">Les faux atouts</a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page">
+            <a href="questions-reponses/index.html">Questions / Nos Réponses</a>
+          </li>
+          <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children uk-parent">
+            <a href="etudes/etudes.html">Études et sources</a>
+          </li>
+        </ul>
+        <div class="widget widget_search" id="search-4">
+          <a class="uk-navbar-toggle uk-icon uk-search-icon" href="#search-8f21-modal" aria-expanded="false">
             <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-              <rect y="9" width="20" height="2"></rect>
-              <rect y="3" width="20" height="2"></rect>
-              <rect y="15" width="20" height="2"></rect>
+              <circle fill="none" stroke="#000" stroke-width="1.1" cx="9" cy="9" r="7"></circle>
+              <path fill="none" stroke="#000" stroke-width="1.1" d="M14,14 L18,18 L14,14 Z"></path>
             </svg>
-          </div>
-        </a></div>
-      </nav>
-    </div>
-    <div id="tm-mobile" uk-offcanvas="" mode="push" overlay="" flip="" class="uk-offcanvas">
-      <div class="uk-offcanvas-bar uk-text-center uk-flex">
-        <button class="uk-offcanvas-close uk-icon uk-close" type="button" uk-close="">
-          <svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg">
-            <line fill="none" stroke="#000" stroke-width="2" x1="1" y1="1" x2="13" y2="13"></line>
-            <line fill="none" stroke="#000" stroke-width="2" x1="13" y1="1" x2="1" y2="13"></line>
-          </svg>
-        </button>
-        <div class="uk-margin-auto-vertical uk-width-1-1">
-          <div class="uk-child-width-1-1 uk-grid uk-grid-stack">
-            <div>
-              <div class="uk-panel">
-                <ul class="uk-nav uk-nav-primary uk-nav-divider uk-nav-center">
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=""> Le projet</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                    href="questions-reponses/index.html"> Questions / Nos Réponses</a></li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent">
-                    <a href="atouts/atouts.html"> Les faux atouts</a>
-                    <ul class="uk-nav-sub">
-                      <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=""> Proximité</a>
-                      </li>
-                      <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=""> Développement des
-                        territoires</a></li>
-                      <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=""> Durable</a></li>
-                      <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href=""> Mobilité pour
-                        tous</a></li>
-                    </ul>
-                  </li>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children uk-parent">
-                    <a href=""> Pour aller plus loin</a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div>
-              <div class="uk-panel widget widget_search" id="search-2">
-                <form id="search-6e2e" action="" method="get" role="search"
-                      class="uk-search uk-search-default uk-width-1-1"><span uk-search-icon=""
-                                                                             class="uk-icon uk-search-icon"><svg
-                  width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><circle fill="none"
-                                                                                                        stroke="#000"
-                                                                                                        stroke-width="1.1"
-                                                                                                        cx="9" cy="9"
-                                                                                                        r="7"></circle><path
-                  fill="none" stroke="#000" stroke-width="1.1" d="M14,14 L18,18 L14,14 Z"></path></svg></span><input
-                  name="s" placeholder="Recherche" required="" type="search" class="uk-search-input"></form>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="tm-header uk-visible@m" uk-header="">
-    <div uk-sticky="" media="@m" show-on-up="" animation="uk-animation-slide-top" cls-active="uk-navbar-sticky"
-         sel-target=".uk-navbar-container" class="uk-sticky" style="">
-      <div class="uk-navbar-container">
-        <div class="uk-container">
-          <nav class="uk-navbar"
-               uk-navbar="{&quot;align&quot;:&quot;center&quot;,&quot;boundary&quot;:&quot;.tm-header .uk-navbar-container&quot;,&quot;container&quot;:&quot;.tm-header &gt; [uk-sticky]&quot;}">
-            <div class="uk-navbar-left"><a href="" class="uk-navbar-item uk-logo">
-              <img alt="LGV 2030" src="questions-reponses/index-assets/logo_baseline5.png" width="300"
-                   height="90"></a></div>
-            <div class="uk-navbar-right">
-              <ul class="uk-navbar-nav">
-                <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="index.html"> Le projet</a>
-                </li>
-                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children uk-parent"><a
-                  href="atouts/atouts.html"> Les faux atouts</a>
-                </li>
-                <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
-                  href="questions-reponses/index.html"> Questions / Nos Réponses</a></li>
-                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children uk-parent"><a
-                  href="etudes/etudes.html"> Études et sources</a>
-                </li>
-              </ul>
-              <div class="widget widget_search" id="search-4"><a class="uk-navbar-toggle uk-icon uk-search-icon"
-                                                                 href="#search-8f21-modal" uk-search-icon=""
-                                                                 uk-toggle="" aria-expanded="false">
-                <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
-                  <circle fill="none" stroke="#000" stroke-width="1.1" cx="9" cy="9" r="7"></circle>
-                  <path fill="none" stroke="#000" stroke-width="1.1" d="M14,14 L18,18 L14,14 Z"></path>
+          </a>
+          <div id="search-8f21-modal" class="uk-modal-full uk-modal">
+            <div class="uk-modal-dialog uk-flex uk-flex-center uk-flex-middle">
+              <button class="uk-modal-close-full uk-icon uk-close" type="button">
+                <svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg">
+                  <line fill="none" stroke="#000" stroke-width="2" x1="1" y1="1" x2="13" y2="13"></line>
+                  <line fill="none" stroke="#000" stroke-width="2" x1="13" y1="1" x2="1" y2="13"></line>
                 </svg>
-              </a>
-                <div id="search-8f21-modal" class="uk-modal-full uk-modal" uk-modal="">
-                  <div class="uk-modal-dialog uk-flex uk-flex-center uk-flex-middle" uk-height-viewport="">
-                    <button class="uk-modal-close-full uk-icon uk-close" type="button" uk-close="">
-                      <svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg">
-                        <line fill="none" stroke="#000" stroke-width="2" x1="1" y1="1" x2="13" y2="13"></line>
-                        <line fill="none" stroke="#000" stroke-width="2" x1="13" y1="1" x2="1" y2="13"></line>
-                      </svg>
-                    </button>
-                    <div class="uk-search uk-search-large">
-                      <form id="search-8f21" action="" method="get" role="search" class="uk-search uk-search-large">
-                        <input name="s" placeholder="Recherche" required="" type="search"
-                               class="uk-search-input uk-text-center" autofocus=""></form>
-                    </div>
-                  </div>
-                </div>
+              </button>
+              <div class="uk-search uk-search-large">
+                <form id="search-8f21" action="" method="get" role="search" class="uk-search uk-search-large">
+                  <input name="s" placeholder="Recherche" required="" type="search"
+                         class="uk-search-input uk-text-center" autofocus=""/>
+                </form>
               </div>
             </div>
-          </nav>
+          </div>
         </div>
       </div>
-    </div>    <!-- Builder #page -->
+    </nav>
+  </header>
+  <main>
+    <!-- Builder #page -->
     <div class="uk-section-default uk-section uk-padding-remove-vertical">
       <div class="uk-container uk-padding-remove-horizontal">
         <div class="tm-grid-expand uk-child-width-1-1 uk-margin-remove-vertical uk-grid uk-grid-stack">
@@ -542,8 +469,8 @@
         </div>
       </div>
 
-        </div>
-</div>
+
+
 
     <div class="uk-section-default uk-section">
       <div class="uk-container">
@@ -598,6 +525,9 @@
           </div>
         </div>
       </div>
+    </div>
+  </main>
+  <footer>
       <div id="footer#0" class="uk-section-default uk-section">
         <div class="tm-grid-expand uk-child-width-1-1 uk-margin-large uk-grid uk-grid-stack">
           <div class="uk-first-column">
@@ -648,5 +578,6 @@
         </div>
       </div>
     </div>
+  </footer>
 </body>
 </html>
