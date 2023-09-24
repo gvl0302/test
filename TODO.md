@@ -1,7 +1,7 @@
 - Menu "Etudes et sources" pété
-- include HTML l'un dans l'autre, afin d'extraire le header et le footer (difficile à faire proprement)
-- problème de police à regarder
-- la homepage a l'affichage mobile pétée
+- problème de police à regarder ?
+- sur les Q/R : les autres questions à gérer
+- le MOBILE
 
 Questions :
 
@@ -11,8 +11,7 @@ Importantes:
 - on garde "etudes/sources.odt" ?
 - le champ de recherche, on en fait quoi ?
 - en bas de page, on n'ajoute pas @ 2023  ⬆️ Mentions légales ?
-
-
+- c'est quoi les titres de Q/R OK_ ? On fait l'inverse, on préfixe les non publiées ?
 
 Moins importantes :
 
