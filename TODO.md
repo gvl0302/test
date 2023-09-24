@@ -11,7 +11,7 @@ Importantes:
 - on garde "etudes/sources.odt" ?
 - le champ de recherche, on en fait quoi ?
 - en bas de page, on n'ajoute pas @ 2023  ⬆️ Mentions légales ?
-- 
+
 
 
 Moins importantes :
@@ -32,3 +32,4 @@ Informations ce que j'ai fait :
 - Redimensionnement des images de la page d'accueil
 - Adjustement de la page d'accueil = ajout de légende sous nos sources d'apport
 - la page d'accueil est sémantiquement acceptable <header><main><footer>
+- retrait du champ de recherche
