@@ -3,13 +3,8 @@
 - sur les Q/R : les autres questions à gérer
 - le MOBILE
 
-Questions :
+Questions Importantes: 
 
-Importantes: 
-
-- on garde "etudes/etudes (copie page initiale)" ?
-- on garde "etudes/sources.odt" ?
-- le champ de recherche, on en fait quoi ?
 - en bas de page, on n'ajoute pas @ 2023  ⬆️ Mentions légales ?
 - c'est quoi les titres de Q/R OK_ ? On fait l'inverse, on préfixe les non publiées ?
 
@@ -35,3 +30,7 @@ Informations ce que j'ai fait :
 - Ajout d'un dropdown Faux Atout
 - Toutes les pages ont header, footer, main...
 - Fix erreur de style sur la page index Q/R
+- Eliminer des fichiers inutiles
+- Retrait de "etudes/etudes (copie page initiale)" ?
+- Retrait de "etudes/sources.odt" ?
+
