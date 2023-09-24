@@ -13,3 +13,11 @@ Importantes:
 Moins importantes :
 
 - Valider les titles (les mettre à jour ?) + description du site
+- Développement des territoires : manque d'images ?
+
+Informations ce que j'ai fait :
+
+- retirer les images baselines inutiles
+- ajout d'un favicon
+- modification du head de chaque page
+- ajout des titres de chaque page
