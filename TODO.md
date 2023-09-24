@@ -23,3 +23,5 @@ Informations ce que j'ai fait :
 - ajout d'un favicon
 - modification du head de chaque page
 - ajout des titres de chaque page
+- Suppression de fichiers inutiles
+- Illu_static_atouts4.svg crop => retire les espaces blancs autour avant et après l'illustration avant le footer.
