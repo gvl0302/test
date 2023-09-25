@@ -1,8 +1,17 @@
+à faire :
+
+- Remettre les 17 questions réponses
+- Supprimer la page les lgv transportent moins
+- renommer les OK
+- problème de police à regarder ? => Roboto à mettre vraiment et pas sans serif
+- text-justify: auto <= paragraph ()
+- faut-il des mentions légales (idem lgvnonmerci, xr, ) + @2023...
+
+
 Anciennes TODO :
 
-- Menu "Etudes et sources" pété
-- problème de police à regarder ?
-- sur les Q/R : les autres questions à gérer
+- Menu "Etudes et sources" pété => ok
+- sur les Q/R : les autres questions à gérer => ok
 
 Nouvelle TODO :
 
@@ -15,6 +24,7 @@ Questions Importantes :
 - en bas de page, on n'ajoute pas @ 2023  ⬆️ Mentions légales ?
 - c'est quoi les titres de Q/R OK_ ? On fait l'inverse, on préfixe les non publiées ?
 - lien cassé sur la page mobilité pour tous href="../questions-reponses/OK_une-solution-pour-lacces-aux-metropoles-bordelaise-et-toulousaine.html">
+- il reste 2030.fr
 
 Moins importantes :
 
