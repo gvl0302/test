@@ -22,8 +22,8 @@ Nouvelle TODO :
 Questions Importantes : 
 
 - en bas de page, on n'ajoute pas @ 2023  ⬆️ Mentions légales ?
-- c'est quoi les titres de Q/R OK_ ? On fait l'inverse, on préfixe les non publiées ?
-- lien cassé sur la page mobilité pour tous href="../questions-reponses/OK_une-solution-pour-lacces-aux-metropoles-bordelaise-et-toulousaine.html">
+- c'est quoi les titres de Q/R  ? On fait l'inverse, on préfixe les non publiées ?
+- lien cassé sur la page mobilité pour tous href="../questions-reponses/une-solution-pour-lacces-aux-metropoles-bordelaise-et-toulousaine.html">
 - il reste 2030.fr
 
 Moins importantes :
