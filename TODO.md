@@ -1,39 +1,7 @@
-à faire :
-
-- Remettre les 17 questions réponses
-- Supprimer la page les lgv transportent moins
-- renommer les OK
-- problème de police à regarder ? => Roboto à mettre vraiment et pas sans serif
-- text-justify: auto <= paragraph ()
-- faut-il des mentions légales (idem lgvnonmerci, xr, ) + @2023...
-
-
-Anciennes TODO :
-
-- Menu "Etudes et sources" pété => ok
-- sur les Q/R : les autres questions à gérer => ok
-
-Nouvelle TODO :
-
-- header et css à bien mettre en place sur toutes les pages, faire attention notamment à la taille de police et à la typographie + justifier tous les corps de texte (pas les titres)
-- idem pour le footer (prendre celui de la page accueil où j'ai retiré les adresses de la région etc.)
-- sur la page questions/nos réponses les tags / filtres ne fonctionnent pas (pour faire apparaître les questions par thèmes
-
-Questions Importantes : 
-
-- en bas de page, on n'ajoute pas @ 2023  ⬆️ Mentions légales ?
-- c'est quoi les titres de Q/R  ? On fait l'inverse, on préfixe les non publiées ?
-- lien cassé sur la page mobilité pour tous href="../questions-reponses/une-solution-pour-lacces-aux-metropoles-bordelaise-et-toulousaine.html">
-- il reste 2030.fr
-
 Moins importantes :
 
 - Valider les titles spécifiques de chaque page + de la description commune du site (les mettre à jour ?)
 - Développement des territoires : manque d'images ?
-- Analyse bibliographique des effets des LGV
-- Valider les nommages des sous logos.
-- La page "les-tgv-transportent-moins-de-voyageurs-que-les-ter.html" étaient visibles ou pas ?
--  Questions : Nos Réponses : faut-il adapter ?
 
 Informations ce que j'ai fait :
 
@@ -56,3 +24,11 @@ Informations ce que j'ai fait :
 - Nettoyage des images inutiles et du projet global
 - Ajout du lien vers les TGV transportent moins de voyageurs que les TER dans chaque page "Questions : Nos Réponses". 
 - Rendre le header mobile plus utilisable
+- Valider les nommages des sous logos.
+- Remettre les 17 questions réponses
+- Supprimer la page les lgv transportent moins
+- renommer les OK
+- problème de police à regarder ? => Roboto à mettre vraiment et pas sans serif
+- text-justify: auto <= paragraph ()
+- faut-il des mentions légales (idem lgvnonmerci, xr, ) + @2023...
+
